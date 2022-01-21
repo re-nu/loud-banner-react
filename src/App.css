@@ -133,12 +133,10 @@
   font-size: 20px;
 }
 .forth-left{
-  padding:40px ;
   background-color:#e96054 ;
   width: 100%;
 }
 .forth-right{
-  padding:40px ;
   background-color:#f6c23e;
   width: 100%;
 }
@@ -147,7 +145,6 @@
   display: flex;
   flex-direction: row;
   margin: 30px;
-  padding: 40px;
   color: white;
 }
 .fifth-left{
@@ -156,4 +153,26 @@
 .fifth-right{
   font-size: 50px;
   flex-grow: 1;
+}
+.sixth{
+  background-color:#f6c23e ;
+  margin: 30px;
+  display: flex;
+  flex-direction: row;
+  color: white;
+}
+.seven{
+  display: flex;
+  flex-direction: row;
+  margin: 30px;
+  color: white;
+  font-size: 20px;
+}
+.seven-left{
+  background-color:#7c94df ;
+  width: 100%;
+}
+.seven-right{
+  background-color:#e96054 ;
+  width: 100%;
 }
