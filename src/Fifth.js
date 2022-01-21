@@ -1,5 +1,4 @@
 
-import RemoveFromQueueIcon from '@mui/icons-material/RemoveFromQueue';
 export function Fifth(params) {
   return (
     <div className="fifth">
